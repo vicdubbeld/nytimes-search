@@ -1,0 +1,13 @@
+#heading {
+    background-color: navy !important;
+    color: white;
+}
+.fa-newspaper{
+    color: white;
+    margin-left: 230px;
+    margin-inline-end: 20px;
+}
+h1{
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold !important; 
+}
